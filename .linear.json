@@ -1,17 +1,17 @@
 {
-  "workspace": "https://linear.app/sylvan-stack",
+  "workspace": "https://linear.app/amorphius",
   "team": "Sylvan Stack",
   "project": {
     "name": "Arbol Classifier",
-    "url": "https://linear.app/sylvan-stack/project/arbol-classifier-2eed9ea3b4da",
-    "id": "P-SYL-5"
+    "url": "https://linear.app/amorphius/project/arbol-classifier-3beafe89e5d9",
+    "id": "P-SYL-8"
   },
   "note": "Local files are the originals. Linear documents are copies republished from them.",
   "documents": {
     "specs/00-the-classifier.md": {
       "title": "Classifier · 00 The classifier",
-      "id": "cca1cf70-3a58-43c0-abcd-a93841ab449d",
-      "url": "https://linear.app/sylvan-stack/document/classifier-00-the-classifier-7734c456ae1b",
+      "id": "206b7158-a862-40a2-adc6-42527818ae5b",
+      "url": "https://linear.app/amorphius/document/classifier-00-the-classifier-92c16a86708a",
       "published": "2026-10-13"
     }
   }
